@@ -28,6 +28,9 @@ desktop screen width 992px and above
 @media screen and (min-width: 768px) {
   .sociallinks {
     display: none;
+    display: flex;
+
+    color: black;
   }
 }
 
